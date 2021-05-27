@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Helen-Shelton
 - 👀 I’m interested in web development and android development
-- 🌱 I’m currently learning Python and HTML, CSS and Javascript
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on just about anything. Only way to know you like something is to try it!
 - 📫 How to reach me: Here
