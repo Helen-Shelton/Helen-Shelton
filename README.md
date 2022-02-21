@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Helen-Shelton
 - 👀 I’m interested in web development!
-- 🌱 I’m currently learning Python, Javascript, React
+- 🌱 I’m currently learning Express, Node.js, Mongoose, MongoDB, & React
 - 💞️ I’m looking to collaborate on just about anything. Only way to know you like something is to try it!
 - 📫 How to reach me: sheltohm@mcmaster.ca
