@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Helen-Shelton
+- 👋 Hi, I’m an engineering student!
 - 👀 I’m interested in web development and game development!
 - 🌱 I’m currently learning Express, Node.js, Mongoose, MongoDB, React, Unity and C#
 - 💞️ I’m looking to collaborate on just about anything. Only way to know you like something is to try it!
